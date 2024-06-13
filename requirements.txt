@@ -5,3 +5,5 @@ folium==0.14.0
 numpy==1.26.4
 cloudpickle==2.2.1
 streamlit_folium==0.20.0
+geopandas==0.14.2
+shapely==2.0.4
